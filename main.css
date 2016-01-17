@@ -20,3 +20,69 @@ li#number3 {
   list-style-position: inside;
   padding-left: 12px
 }
+
+#theImg {
+  width: 640px;
+  height: 340px;
+  background: url("http://cdn2.bigcommerce.com/server3700/ccqw/product_images/uploaded_images/8-tea-choices.jpg?t=1398725710") no-repeat;
+  position: relative;
+  border: 1px solid #000000;
+}
+
+#theImg ul {
+  margin: 0px;
+  padding: 0px;
+  list-style-position: none;
+}
+
+#theImg a {
+  position: absolute;
+  text-indent: -1000em;
+}
+
+#theImg a:hover {
+  border: 4px solid #ffffff;
+}
+
+#ss a {
+  top: 0px;
+  left: 5px;
+  width: 80px;
+  height: 225px;
+}
+
+#gn a {
+  top: 226px;
+  left: 15px;
+  width: 70px;
+  height: 110px;
+}
+
+#ib a {
+  top: 225px;
+  left: 85px;
+  width: 60px;
+  height: 90px;
+}
+
+#iTEA1 a {
+  top: 100px;
+  left: 320px;
+  width: 178px;
+  height: 125px;
+}
+
+#iTEA2 {
+  top: 225px;
+  left: 375px;
+  width: 123px;
+  height: 115px;
+}
+
+
+
+
+
+
+
+
