@@ -37,8 +37,9 @@ li#number3 {
 
 #theImg a {
   position: absolute;
-  text-indent: 2em;
+  text-indent: -1000em; /*for this purpose we don't want the text for the links to appear*/
 }
+
 
 #theImg a:hover {
   border: 4px solid #ffffff;
